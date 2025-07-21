@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://algora.io/og/user/andrzejressel" />
+<a href="https://algora.io/andrzejressel"><img src="https://algora.io/og/user/andrzejressel" /></a>
 
 <!--
 **andrzejressel/andrzejressel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
